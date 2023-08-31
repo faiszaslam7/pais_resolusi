@@ -1,6 +1,7 @@
 Rencana belajar
 1. Javascript
     -belajar basic dulu kali ni ya
-2. figma
+2. Figma
 3. SQL
 4. Css & Html
+5. Php
