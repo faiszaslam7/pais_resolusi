@@ -3,3 +3,4 @@ Rencana belajar
     -belajar basic dulu kali ni ya
 2. figma
 3. SQL
+4. Css & Html
