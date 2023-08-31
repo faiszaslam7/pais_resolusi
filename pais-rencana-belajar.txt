@@ -1,0 +1,4 @@
+Rencana belajar
+1. Javascript
+2. figma
+3. SQL
